@@ -1,0 +1,3 @@
+C:/Users/William Byrd/CLionProjects/IHateGui/cmake-build-debug/CMakeFiles/IHateGui.dir
+C:/Users/William Byrd/CLionProjects/IHateGui/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/William Byrd/CLionProjects/IHateGui/cmake-build-debug/CMakeFiles/rebuild_cache.dir
